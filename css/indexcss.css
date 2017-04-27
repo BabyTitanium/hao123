@@ -3,13 +3,16 @@
 	padding: 0px;
 }
 #pleft,#pright{
-	
 	float: left;
 	width:175px;
 }
-#pcenter{
+#main{
 	width: 1000px;
 	float: left;
+}
+#container{
+	width: 1350px;
+	margin: auto;
 }
 /*.tab{
 	width: 111px;
